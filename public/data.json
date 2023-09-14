@@ -1,0 +1,25 @@
+{
+    "items": [
+      {
+        "id": 1,
+        "text": "Créer la base de données",
+        "is_complete": true
+      },
+      {
+        "id": 2,
+        "text": "Générer l'API",
+        "is_complete": true
+      },
+      {
+        "id": 3,
+        "text": "Pause café !",
+        "is_complete": false
+      },
+      {
+        "id": 4,
+        "text": "Développer le front",
+        "is_complete": false
+      }
+    ]
+  }
+  
